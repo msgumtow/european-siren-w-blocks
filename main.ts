@@ -1,7 +1,9 @@
 /**
  * In a "forever" loop
  * 
- * Place a "while" loop with the condition (light level greater than/equal to 200) replacing "true."
+ * Place a "while" loop with the condition 
+ * 
+ * light level greater than/equal to 200 replacing "true."
  * 
  * Inside the while loop,
  * 
