@@ -14,5 +14,7 @@
  * Unplot the LED at 2,2
  */
 basic.forever(function () {
-	
+    while (true) {
+    	
+    }
 })
